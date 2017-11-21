@@ -9,10 +9,10 @@ Special thanks to Corvette who lent his voice as the singer for Hedgeclipper.
 ---
 
 Inputs:
-*Green Fret - F1
-*Red Fret - F2
-*Yellow Fret - F3
-*Blue Fret - F4
-*Orange Fret - F5
-*Strum - Up Arrow and Down Arrow
-*The Button that Lets You Start the Game or Return to Menu - Enter
+* Green Fret - F1
+* Red Fret - F2
+* Yellow Fret - F3
+* Blue Fret - F4
+* Orange Fret - F5
+* Strum - Up Arrow and Down Arrow
+* The Button that Lets You Start the Game or Return to Menu - Enter
